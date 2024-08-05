@@ -14,8 +14,8 @@ This project is a minimal setup to get React working with Vite, including Hot Mo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Shubhamsk2000/dashboard_UI.git
+    cd dashboard_UI
     ```
 
 2. Install dependencies:
